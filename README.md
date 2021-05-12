@@ -15,6 +15,7 @@ All projects I've been working on are awailable here on github, displaying what 
 Some of these project you do not have to clone, since I used GitHub pages to present them, so here are the links to the working projects:
 - [Simple app that is using the YouTube v3 api to display and search for some videos](https://jean-pierrenovak0612.github.io/react-yt-api/)
 - [A small landing page (on croatian), presenting a little organization for helping animals in need](https://jean-pierrenovak0612.github.io/landing-page/)
+- [An e-comerce site that uses the JSON RESTFUL API to display products](https://jean-pierrenovak0612.github.io/ecomerce-site/#/ecomerce-site/ecomerce-site/)
 
 The rest of my projects are still comming.
 
