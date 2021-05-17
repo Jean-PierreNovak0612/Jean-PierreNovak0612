@@ -25,6 +25,7 @@ I still have plenty ideas in my head so be aware that the list of projects will 
 
 If you want, you can contact me via: 
 * Email: jeanpierrenovak20@gmail.com
+* Website: [MyPortoPage](https://jean-pierreonvak0612.github.io/portofolio/#/portofolio/)
 
 
 <!---
